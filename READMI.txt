@@ -1,0 +1,4 @@
+Per avviare il programma lanciare il comando streamlit run main.py nel terminale.
+Verrà aperta un'interfaccia grafica molto semplice da cui è possibile recuperare i giocatori (per squadra o di tutta la lega) e 
+generare il grafo da zero.
+Il file .env deve essere aggiornato con i valori necessari.
